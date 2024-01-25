@@ -1,3 +1,5 @@
 {
-    "baseBranches": ["master", "master-mynavi"]
-  }
+  "baseBranches": ["master", "master-mynavi"],
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0
+}
