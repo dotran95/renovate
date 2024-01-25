@@ -6,6 +6,6 @@
   "author": "dotn <dotn>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "3.17.3"
   }
 }
